@@ -1,0 +1,6 @@
+[AmazonCACerts]
+git-tree-sha1 = "f28b261a921bd153df4d1ce27d738b7ddb47eeaa"
+
+    [[AmazonCACerts.download]]
+    sha256 = "d5454bb53a620a6e90644c5e917177a667dc713c6623555aa970d43178094c46"
+    url = "https://github.com/JuliaBinaryWrappers/AmazonCACerts_jll.jl/releases/download/AmazonCACerts-v2019.0.0+0/AmazonCACerts.v2019.0.0.any.tar.gz"
