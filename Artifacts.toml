@@ -1,6 +1,6 @@
 [AmazonCACerts]
-git-tree-sha1 = "f28b261a921bd153df4d1ce27d738b7ddb47eeaa"
+git-tree-sha1 = "9d3b0301738d8cac9a2b2c9631d889a6fea39332"
 
     [[AmazonCACerts.download]]
-    sha256 = "d5454bb53a620a6e90644c5e917177a667dc713c6623555aa970d43178094c46"
-    url = "https://github.com/JuliaBinaryWrappers/AmazonCACerts_jll.jl/releases/download/AmazonCACerts-v2019.0.0+0/AmazonCACerts.v2019.0.0.any.tar.gz"
+    sha256 = "3093f2264cd3f20bea36beec36097b436966e8954973c65c3c9b05607f8fd024"
+    url = "https://github.com/JuliaBinaryWrappers/AmazonCACerts_jll.jl/releases/download/AmazonCACerts-v2019.1.0+0/AmazonCACerts.v2019.1.0.any.tar.gz"
